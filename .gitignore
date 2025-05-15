@@ -1,0 +1,6 @@
+song-splitter/
+musdb18/
+experiments.ipynb
+experiments.py
+.venv/
+.DS_Store
